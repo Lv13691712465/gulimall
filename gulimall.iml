@@ -5,6 +5,9 @@
       <sourceFolder url="file://$MODULE_DIR$/renren-fast/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/renren-fast/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/renren-fast/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/gulimall-common/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gulimall-common/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/gulimall-common/src/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/renren-fast01/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/renren-fast01/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/renren-fast01/src/test" isTestSource="true" />
