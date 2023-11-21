@@ -38,6 +38,36 @@
             <version>2.7.17</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.36</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.36</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>1.7.36</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>5.3.30</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-web</artifactId>
+            <version>5.3.30</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
     <packaging>pom</packaging>
 
@@ -48,9 +78,8 @@
         <module>gulimall-product</module>
         <module>gulimall-ware</module>
         <module>renren-fast</module>
-        <!--        <module>renren-fast</module>-->
-<!--        <module>renren-generator</module>-->
-<!--        <module>gulimall-common</module>-->
+        <module>renren-generator</module>
+        <module>gulimall-common</module>
     </modules>
 
 
