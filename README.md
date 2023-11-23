@@ -1,2 +1,2 @@
-# gulimall
+gulimall
 gulimall项目
