@@ -11,9 +11,9 @@ import lombok.Data;
 /**
  * 秒杀活动商品关联
  * 
- * @author lvfan
- * @email 1396547078@qq.com
- * @date 2023-11-24 16:38:24
+ * @author leifengyang
+ * @email leifengyang@gmail.com
+ * @date 2019-10-08 09:36:40
  */
 @Data
 @TableName("sms_seckill_sku_relation")
@@ -44,11 +44,11 @@ public class SeckillSkuRelationEntity implements Serializable {
 	/**
 	 * 秒杀总量
 	 */
-	private Integer seckillCount;
+	private BigDecimal seckillCount;
 	/**
 	 * 每人限购数量
 	 */
-	private Integer seckillLimit;
+	private BigDecimal seckillLimit;
 	/**
 	 * 排序
 	 */
